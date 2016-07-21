@@ -1,2 +1,2 @@
-# Word-Embedding-Polygot2
+# PosTag-polyglot2-embedder
 Bengali Word Embedding by using Polygot2 
